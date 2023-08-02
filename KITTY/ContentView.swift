@@ -7,6 +7,8 @@
 
 import SwiftUI
 
+// This is my first app I did by myself! :)
+
 struct ContentView: View {
     var body: some View {
         VStack {
